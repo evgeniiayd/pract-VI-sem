@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash #default_apps.bash
 
 sudo echo "
 text/csv=r7-office-desktopeditors.desktop
